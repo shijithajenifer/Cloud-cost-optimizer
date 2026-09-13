@@ -191,7 +191,4 @@ https://api.github.com/repos/{owner}/{repo}
 
 \---
 
-## 📬 Contact
-
-For questions, contact the placement team as instructed in the challenge brief.
 
